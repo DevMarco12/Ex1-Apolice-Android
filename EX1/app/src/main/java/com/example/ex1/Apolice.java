@@ -2,11 +2,11 @@ package com.example.ex1;
 
 public class Apolice {
     // Variáveis
-    public int numero;
-    public String nome;
-    public int idade;
-    public char sexo;
-    public double valorAutomovel;
+    private int numero;
+    private String nome;
+    private int idade;
+    private char sexo;
+    private double valorAutomovel;
 
     // Construtor vázio
     public Apolice() {
